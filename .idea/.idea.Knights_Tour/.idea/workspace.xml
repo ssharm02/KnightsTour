@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="353be6b5-1bae-442e-a821-be912365c555" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Knights_Tour.csproj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Knights_Tour/Knights_Tour.csproj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Board.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Knights_Tour/Board.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-657">
+              <caret line="180" column="14" lean-forward="false" selection-start-line="180" selection-start-column="14" selection-end-line="180" selection-end-column="14" />
+              <folding>
+                <marker date="1504035779811" expanded="false" signature="6:141" ph="..." />
+                <marker date="1504035779811" expanded="true" signature="165:11360" ph="{...}" />
+                <marker date="1504035779811" expanded="true" signature="183:11339" ph="{...}" />
+                <marker date="1504035779811" expanded="true" signature="198:751" ph="/* The Board class represents a chess board made up of squares (using Square class). The ... */" />
+                <marker date="1504035779811" expanded="true" signature="1272:3493" ph="{...}" />
+                <marker date="1504035779811" expanded="true" signature="1295:1582" ph="/* When the board is constructed, each square on the grid is initialized. If the ... */" />
+                <marker date="1504035779811" expanded="true" signature="1656:3434" ph="{...}" />
+                <marker date="1504035779811" expanded="true" signature="1748:3406" ph="{...}" />
+                <marker date="1504035779811" expanded="true" signature="1843:3168" ph="{...}" />
+                <marker date="1504035779811" expanded="true" signature="1911:2296" ph="{...}" />
+                <marker date="1504035779811" expanded="true" signature="2347:2732" ph="{...}" />
+                <marker date="1504035779811" expanded="true" signature="2761:3146" ph="{...}" />
+                <marker date="1504035779811" expanded="true" signature="3259:3359" ph="{...}" />
+                <marker date="1504035779811" expanded="true" signature="3494:3544" ph="/* END constructor Board(bool) ... */" />
+                <marker date="1504035779811" expanded="true" signature="3588:4976" ph="{...}" />
+                <marker date="1504035779811" expanded="true" signature="3611:4085" ph="/* The knight's tour simulates a knight moving around a chess board. The knight may ... */" />
+                <marker date="1504035779811" expanded="true" signature="4395:4935" ph="{...}" />
+                <marker date="1504035779811" expanded="true" signature="4481:4556" ph="{...}" />
+                <marker date="1504035779811" expanded="true" signature="5036:7393" ph="{...}" />
+                <marker date="1504035779811" expanded="true" signature="5059:5480" ph="/* The method checks each of eight possible moves the knight can make from its ... */" />
+                <marker date="1504035779811" expanded="true" signature="5669:6001" ph="{...}" />
+                <marker date="1504035779811" expanded="true" signature="5725:5835" ph="{...}" />
+                <marker date="1504035779811" expanded="true" signature="5877:5987" ph="{...}" />
+                <marker date="1504035779811" expanded="true" signature="6039:6371" ph="{...}" />
+                <marker date="1504035779811" expanded="true" signature="6095:6205" ph="{...}" />
+                <marker date="1504035779811" expanded="true" signature="6247:6357" ph="{...}" />
+                <marker date="1504035779811" expanded="true" signature="6409:6741" ph="{...}" />
+                <marker date="1504035779811" expanded="true" signature="6465:6575" ph="{...}" />
+                <marker date="1504035779811" expanded="true" signature="6617:6727" ph="{...}" />
+                <marker date="1504035779811" expanded="true" signature="6779:7111" ph="{...}" />
+                <marker date="1504035779811" expanded="true" signature="6835:6945" ph="{...}" />
+                <marker date="1504035779811" expanded="true" signature="6987:7097" ph="{...}" />
+                <marker date="1504035779811" expanded="true" signature="7224:7282" ph="{...}" />
+                <marker date="1504035779811" expanded="true" signature="7468:7770" ph="{...}" />
+                <marker date="1504035779811" expanded="true" signature="7491:7559" ph="/* The knight is moved to the coordinate parameters. ... */" />
+                <marker date="1504035779811" expanded="true" signature="7848:8452" ph="{...}" />
+                <marker date="1504035779811" expanded="true" signature="7871:8200" ph="/* If the value of the square indicated by parameters is equal to zero, then the ... */" />
+                <marker date="1504035779811" expanded="true" signature="8273:8442" ph="{...}" />
+                <marker date="1504035779811" expanded="true" signature="8518:9611" ph="{...}" />
+                <marker date="1504035779811" expanded="true" signature="8541:8764" ph="/* The method loops through the list of available moves to find the highest ... */" />
+                <marker date="1504035779811" expanded="true" signature="8929:9099" ph="{...}" />
+                <marker date="1504035779811" expanded="true" signature="9215:9589" ph="{...}" />
+                <marker date="1504035779811" expanded="true" signature="9348:9575" ph="{...}" />
+                <marker date="1504035779811" expanded="true" signature="9665:9719" ph="{...}" />
+                <marker date="1504035779811" expanded="true" signature="9774:11314" ph="{...}" />
+                <marker date="1504035779811" expanded="true" signature="9797:9989" ph="/* The method returns a formatted string representation of the board, including the ... */" />
+                <marker date="1504035779811" expanded="true" signature="10302:11263" ph="{...}" />
+                <marker date="1504035779811" expanded="true" signature="10406:10905" ph="{...}" />
+                <marker date="1504035779811" expanded="true" signature="10518:10656" ph="{...}" />
+                <marker date="1504035779811" expanded="true" signature="10681:10887" ph="{...}" />
+                <marker date="1504035779811" expanded="true" signature="10988:11107" ph="{...}" />
+                <marker date="1504035779811" expanded="true" signature="11128:11249" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Form1.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Knights_Tour/Form1.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="38" column="16" lean-forward="false" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+              <folding>
+                <marker date="1497631967413" expanded="false" signature="6:256" ph="..." />
+                <marker date="1497631967413" expanded="true" signature="280:3123" ph="{...}" />
+                <marker date="1497631967413" expanded="true" signature="320:3102" ph="{...}" />
+                <marker date="1497631967413" expanded="true" signature="349:404" ph="{...}" />
+                <marker date="1497631967413" expanded="true" signature="470:3053" ph="{...}" />
+                <marker date="1497631967413" expanded="true" signature="493:835" ph="/* Launches Knight's Tour program. User input dictates the number of attempts at ... */" />
+                <marker date="1497631967413" expanded="true" signature="1120:1275" ph="{...}" />
+                <marker date="1497631967413" expanded="true" signature="1292:1446" ph="{...}" />
+                <marker date="1497631967413" expanded="true" signature="1816:2426" ph="{...}" />
+                <marker date="1497631967413" expanded="true" signature="1907:2385" ph="{...}" />
+                <marker date="1497631967413" expanded="true" signature="2641:2922" ph="{...}" />
+                <marker date="1497631967413" expanded="true" signature="2701:2799" ph="{...}" />
+                <marker date="1497631967413" expanded="true" signature="2979:3043" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Microsoft.Common.CurrentVersion.targets" pinned="false" current-in-tab="false">
+        <entry file="file://C:/Program Files (x86)/Microsoft Visual Studio/2017/Professional/MSBuild/15.0/Bin/Microsoft.Common.CurrentVersion.targets">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-481">
+              <caret line="1419" column="4" lean-forward="false" selection-start-line="1419" selection-start-column="4" selection-end-line="1419" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Knights_Tour/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1497565003567" expanded="true" signature="6:124" ph="..." />
+                <marker date="1497565003567" expanded="true" signature="148:509" ph="{...}" />
+                <marker date="1497565003567" expanded="true" signature="175:507" ph="{...}" />
+                <marker date="1497565003567" expanded="true" signature="190:280" ph="/// The main entry point for the application. ... " />
+                <marker date="1497565003567" expanded="true" signature="327:501" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Square.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Knights_Tour/Square.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="427">
+              <caret line="45" column="9" lean-forward="true" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+              <folding>
+                <marker date="1497630470425" expanded="true" signature="6:115" ph="..." />
+                <marker date="1497630470425" expanded="true" signature="139:1459" ph="{...}" />
+                <marker date="1497630470425" expanded="true" signature="158:1437" ph="{...}" />
+                <marker date="1497630470425" expanded="true" signature="173:556" ph="/* The Square class represents an individual square on a chess board. Each square has two ... */" />
+                <marker date="1497630470425" expanded="true" signature="834:932" ph="{...}" />
+                <marker date="1497630470425" expanded="true" signature="933:983" ph="/* END constructor Square(int) ... */" />
+                <marker date="1497630470425" expanded="true" signature="1016:1070" ph="{...}" />
+                <marker date="1497630470425" expanded="true" signature="1138:1189" ph="{...}" />
+                <marker date="1497630470425" expanded="true" signature="1244:1297" ph="{...}" />
+                <marker date="1497630470425" expanded="true" signature="1359:1409" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Knights_Tour/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Knights_Tour/Square.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Knights_Tour/Board.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Knights_Tour/Form1.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2074" />
+    <option name="y" value="344" />
+    <option name="width" value="1400" />
+    <option name="height" value="820" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Knights_Tour (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Knights_Tour (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Knights_Tour" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Knights_Tour/Knights_Tour.csproj" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Knights_Tour/bin/Debug/Knights_Tour.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="353be6b5-1bae-442e-a821-be912365c555" name="Default" comment="" />
+      <created>1509304028747</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1509304028747</updated>
+      <workItem from="1509304048406" duration="1436000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1436000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1592" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20833333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Knights_Tour/Knights_Tour.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Knights_Tour/Board.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-657">
+          <caret line="180" column="14" lean-forward="false" selection-start-line="180" selection-start-column="14" selection-end-line="180" selection-end-column="14" />
+          <folding>
+            <marker date="1504035779811" expanded="false" signature="6:141" ph="..." />
+            <marker date="1504035779811" expanded="true" signature="165:11360" ph="{...}" />
+            <marker date="1504035779811" expanded="true" signature="183:11339" ph="{...}" />
+            <marker date="1504035779811" expanded="true" signature="198:751" ph="/* The Board class represents a chess board made up of squares (using Square class). The ... */" />
+            <marker date="1504035779811" expanded="true" signature="1272:3493" ph="{...}" />
+            <marker date="1504035779811" expanded="true" signature="1295:1582" ph="/* When the board is constructed, each square on the grid is initialized. If the ... */" />
+            <marker date="1504035779811" expanded="true" signature="1656:3434" ph="{...}" />
+            <marker date="1504035779811" expanded="true" signature="1748:3406" ph="{...}" />
+            <marker date="1504035779811" expanded="true" signature="1843:3168" ph="{...}" />
+            <marker date="1504035779811" expanded="true" signature="1911:2296" ph="{...}" />
+            <marker date="1504035779811" expanded="true" signature="2347:2732" ph="{...}" />
+            <marker date="1504035779811" expanded="true" signature="2761:3146" ph="{...}" />
+            <marker date="1504035779811" expanded="true" signature="3259:3359" ph="{...}" />
+            <marker date="1504035779811" expanded="true" signature="3494:3544" ph="/* END constructor Board(bool) ... */" />
+            <marker date="1504035779811" expanded="true" signature="3588:4976" ph="{...}" />
+            <marker date="1504035779811" expanded="true" signature="3611:4085" ph="/* The knight's tour simulates a knight moving around a chess board. The knight may ... */" />
+            <marker date="1504035779811" expanded="true" signature="4395:4935" ph="{...}" />
+            <marker date="1504035779811" expanded="true" signature="4481:4556" ph="{...}" />
+            <marker date="1504035779811" expanded="true" signature="5036:7393" ph="{...}" />
+            <marker date="1504035779811" expanded="true" signature="5059:5480" ph="/* The method checks each of eight possible moves the knight can make from its ... */" />
+            <marker date="1504035779811" expanded="true" signature="5669:6001" ph="{...}" />
+            <marker date="1504035779811" expanded="true" signature="5725:5835" ph="{...}" />
+            <marker date="1504035779811" expanded="true" signature="5877:5987" ph="{...}" />
+            <marker date="1504035779811" expanded="true" signature="6039:6371" ph="{...}" />
+            <marker date="1504035779811" expanded="true" signature="6095:6205" ph="{...}" />
+            <marker date="1504035779811" expanded="true" signature="6247:6357" ph="{...}" />
+            <marker date="1504035779811" expanded="true" signature="6409:6741" ph="{...}" />
+            <marker date="1504035779811" expanded="true" signature="6465:6575" ph="{...}" />
+            <marker date="1504035779811" expanded="true" signature="6617:6727" ph="{...}" />
+            <marker date="1504035779811" expanded="true" signature="6779:7111" ph="{...}" />
+            <marker date="1504035779811" expanded="true" signature="6835:6945" ph="{...}" />
+            <marker date="1504035779811" expanded="true" signature="6987:7097" ph="{...}" />
+            <marker date="1504035779811" expanded="true" signature="7224:7282" ph="{...}" />
+            <marker date="1504035779811" expanded="true" signature="7468:7770" ph="{...}" />
+            <marker date="1504035779811" expanded="true" signature="7491:7559" ph="/* The knight is moved to the coordinate parameters. ... */" />
+            <marker date="1504035779811" expanded="true" signature="7848:8452" ph="{...}" />
+            <marker date="1504035779811" expanded="true" signature="7871:8200" ph="/* If the value of the square indicated by parameters is equal to zero, then the ... */" />
+            <marker date="1504035779811" expanded="true" signature="8273:8442" ph="{...}" />
+            <marker date="1504035779811" expanded="true" signature="8518:9611" ph="{...}" />
+            <marker date="1504035779811" expanded="true" signature="8541:8764" ph="/* The method loops through the list of available moves to find the highest ... */" />
+            <marker date="1504035779811" expanded="true" signature="8929:9099" ph="{...}" />
+            <marker date="1504035779811" expanded="true" signature="9215:9589" ph="{...}" />
+            <marker date="1504035779811" expanded="true" signature="9348:9575" ph="{...}" />
+            <marker date="1504035779811" expanded="true" signature="9665:9719" ph="{...}" />
+            <marker date="1504035779811" expanded="true" signature="9774:11314" ph="{...}" />
+            <marker date="1504035779811" expanded="true" signature="9797:9989" ph="/* The method returns a formatted string representation of the board, including the ... */" />
+            <marker date="1504035779811" expanded="true" signature="10302:11263" ph="{...}" />
+            <marker date="1504035779811" expanded="true" signature="10406:10905" ph="{...}" />
+            <marker date="1504035779811" expanded="true" signature="10518:10656" ph="{...}" />
+            <marker date="1504035779811" expanded="true" signature="10681:10887" ph="{...}" />
+            <marker date="1504035779811" expanded="true" signature="10988:11107" ph="{...}" />
+            <marker date="1504035779811" expanded="true" signature="11128:11249" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Knights_Tour/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1497565003567" expanded="true" signature="6:124" ph="..." />
+            <marker date="1497565003567" expanded="true" signature="148:509" ph="{...}" />
+            <marker date="1497565003567" expanded="true" signature="175:507" ph="{...}" />
+            <marker date="1497565003567" expanded="true" signature="190:280" ph="/// The main entry point for the application. ... " />
+            <marker date="1497565003567" expanded="true" signature="327:501" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Knights_Tour/Form1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="38" column="16" lean-forward="false" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+          <folding>
+            <marker date="1497631967413" expanded="false" signature="6:256" ph="..." />
+            <marker date="1497631967413" expanded="true" signature="280:3123" ph="{...}" />
+            <marker date="1497631967413" expanded="true" signature="320:3102" ph="{...}" />
+            <marker date="1497631967413" expanded="true" signature="349:404" ph="{...}" />
+            <marker date="1497631967413" expanded="true" signature="470:3053" ph="{...}" />
+            <marker date="1497631967413" expanded="true" signature="493:835" ph="/* Launches Knight's Tour program. User input dictates the number of attempts at ... */" />
+            <marker date="1497631967413" expanded="true" signature="1120:1275" ph="{...}" />
+            <marker date="1497631967413" expanded="true" signature="1292:1446" ph="{...}" />
+            <marker date="1497631967413" expanded="true" signature="1816:2426" ph="{...}" />
+            <marker date="1497631967413" expanded="true" signature="1907:2385" ph="{...}" />
+            <marker date="1497631967413" expanded="true" signature="2641:2922" ph="{...}" />
+            <marker date="1497631967413" expanded="true" signature="2701:2799" ph="{...}" />
+            <marker date="1497631967413" expanded="true" signature="2979:3043" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/Microsoft Visual Studio/2017/Professional/MSBuild/15.0/Bin/Microsoft.Common.CurrentVersion.targets">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-481">
+          <caret line="1419" column="4" lean-forward="false" selection-start-line="1419" selection-start-column="4" selection-end-line="1419" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Knights_Tour/Square.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="45" column="9" lean-forward="true" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+          <folding>
+            <marker date="1497630470425" expanded="true" signature="6:115" ph="..." />
+            <marker date="1497630470425" expanded="true" signature="139:1459" ph="{...}" />
+            <marker date="1497630470425" expanded="true" signature="158:1437" ph="{...}" />
+            <marker date="1497630470425" expanded="true" signature="173:556" ph="/* The Square class represents an individual square on a chess board. Each square has two ... */" />
+            <marker date="1497630470425" expanded="true" signature="834:932" ph="{...}" />
+            <marker date="1497630470425" expanded="true" signature="933:983" ph="/* END constructor Square(int) ... */" />
+            <marker date="1497630470425" expanded="true" signature="1016:1070" ph="{...}" />
+            <marker date="1497630470425" expanded="true" signature="1138:1189" ph="{...}" />
+            <marker date="1497630470425" expanded="true" signature="1244:1297" ph="{...}" />
+            <marker date="1497630470425" expanded="true" signature="1359:1409" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
