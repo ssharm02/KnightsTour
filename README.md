@@ -10,7 +10,7 @@ The knight's tour problem is the mathematical problem of finding a knight's tour
 https://en.wikipedia.org/wiki/Knight%27s_tour
 
 ## What this program does:
-GUI based Knight's tour algorithm.  User can select hueristic intelligent method or non huristic (non intelligent) methods, number of tries.  Average number of moves and the standard deviation are displayed.  Finally, the results are stored in a text file after the user finishes running the program
+GUI based Knight's tour algorithm.  User can select hueristic intelligent method or non huristic (non intelligent) method, number of tries.  Average number of moves and the standard deviation are displayed.  Finally, the results are stored in a text file after the user finishes running the program
 
 ![alt text](https://i.imgur.com/kbcAeDA.png)
 ![alt text](https://i.imgur.com/IriQuXS.png)
