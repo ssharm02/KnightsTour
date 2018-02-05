@@ -14,6 +14,7 @@ In this program the Knight starts on a random (x and y) position on the chess bo
 
 In the heuristic method the multi-dimensional chess board is mapped using the following pattern:
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Knight%27s_graph_showing_number_of_possible_moves.svg/405px-Knight%27s_graph_showing_number_of_possible_moves.svg.png)
+
 For the Knight it is easier to traverse the inner board with where all the 8 squares are located (without getting stuck).  So it starts from the outside boundary lower numbers and tries to move in on the higher numbers.
 
 For the non heuristic method, the Knight simply tries to traverse the chess board without any pattern, therefore it can get stuck at any time 
