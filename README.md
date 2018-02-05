@@ -20,14 +20,14 @@ For the Knight it is easier to traverse the inner board with where all the 8 squ
 For the non heuristic method, the Knight simply tries to traverse the chess board without any pattern, therefore it can get stuck at any time 
 
 The movement of the knight is computed using x and y and the following formula (it can move as long it is in the chess board):
-x + 2, y + 1
-x - 2, y - 1
-x - 2, y + 1
-x - 2, y - 1
-x + 1, y + 2
-x - 1, y - 2
-x - 1, y + 2
-x - 1, y - 2
+x + 2, y + 1 <br />
+x - 2, y - 1 <br />
+x - 2, y + 1 <br />
+x - 2, y - 1 <br />
+x + 1, y + 2 <br />
+x - 1, y - 2 <br />
+x - 1, y + 2 <br />
+x - 1, y - 2 <br />
 
 ![alt text](https://i.imgur.com/kbcAeDA.png)
 ![alt text](https://i.imgur.com/IriQuXS.png)
