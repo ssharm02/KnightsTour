@@ -1,5 +1,5 @@
 
-## What is Knights Tour?
+## Knights Tour
 <img src="chatxkt.gif?raw=true" width="500px">
 
 First assignment for C# class for Professor Dario Guiao 
